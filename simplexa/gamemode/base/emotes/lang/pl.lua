@@ -1,0 +1,6 @@
+LANG["#ActBeacon"] = [[Wezwanie]]
+LANG["#ActBow"] = [[Ukłon]]
+LANG["#ActAgree"] = [[Homologacja]]
+LANG["#ActWave"] = [[Pozdrowienia]]
+LANG["#ActSalute"] = [[Salutowanie wojskowe]]
+LANG["#ActDisagree"] = [[Wyrok skazujący]]

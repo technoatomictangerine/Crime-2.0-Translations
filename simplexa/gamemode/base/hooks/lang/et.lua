@@ -1,0 +1,7 @@
+LANG["#HeadbobOption"] = [[Kaamera võbiseb]]
+LANG["#CameraOptions"] = [[Kaamera]]
+LANG["#RenderRadiusOption"] = [[Joonise kaugus]]
+LANG["#HeadbobOption_Help"] = [[Pea liikumise simuleerimine kaamera asendi manipuleerimisega.]]
+LANG["#MouseSensitivityOption_Help"] = [[Kaamera liikumiskordisti hiirekursoriga.]]
+LANG["#RenderRadiusOption_Help"] = [[Sündmuskoha kauguse joonistamine. See aitab stabiliseerida jõudlust nõrkadel videoadapteritel.]]
+LANG["#MouseSensitivityOption"] = [[Hiiretundlikkus]]

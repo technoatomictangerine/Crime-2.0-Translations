@@ -1,0 +1,6 @@
+LANG["#ActBeacon"] = [[Zitrone]]
+LANG["#ActBow"] = [[Bogen]]
+LANG["#ActAgree"] = [[Genehmigung]]
+LANG["#ActWave"] = [[Grüße]]
+LANG["#ActSalute"] = [[Militärlöhne]]
+LANG["#ActDisagree"] = [[Condeme]]

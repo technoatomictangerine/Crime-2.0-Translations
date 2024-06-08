@@ -1,0 +1,7 @@
+LANG["#HeadbobOption"] = [[Kamera roskaa]]
+LANG["#CameraOptions"] = [[Kamera]]
+LANG["#RenderRadiusOption"] = [[Piirrä etäisyyttä]]
+LANG["#HeadbobOption_Help"] = [[Simuloi pään liikettä manipuloimalla kameran asentoa.]]
+LANG["#MouseSensitivityOption_Help"] = [[Kameran moninkertaistaminen hiiren kursorilla.]]
+LANG["#RenderRadiusOption_Help"] = [[Etäisyys näyttämölle. Se auttaa vakauttamaan suorituskykyä heikoilla videosovittimilla.]]
+LANG["#MouseSensitivityOption"] = [[Hiiren herkkyys]]

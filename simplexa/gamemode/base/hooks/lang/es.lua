@@ -1,0 +1,7 @@
+LANG["#HeadbobOption"] = [[Cámara wobbling]]
+LANG["#CameraOptions"] = [[Cámara]]
+LANG["#RenderRadiusOption"] = [[Dibujo distancia]]
+LANG["#HeadbobOption_Help"] = [[Simulación del movimiento de la cabeza manipulando la posición de la cámara.]]
+LANG["#MouseSensitivityOption_Help"] = [[Multiplicador de movimiento de la cámara con el cursor del ratón.]]
+LANG["#RenderRadiusOption_Help"] = [[Dibujando distancia de la escena. Ayudará a estabilizar el rendimiento en adaptadores de vídeo débiles.]]
+LANG["#MouseSensitivityOption"] = [[Sensibilidad de ratón]]

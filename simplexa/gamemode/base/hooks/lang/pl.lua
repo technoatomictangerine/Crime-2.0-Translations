@@ -1,0 +1,7 @@
+LANG["#HeadbobOption"] = [[Krążenie kamery]]
+LANG["#CameraOptions"] = [[Kamera]]
+LANG["#RenderRadiusOption"] = [[Odległość rysowania]]
+LANG["#HeadbobOption_Help"] = [[Symulacja ruchu głowy poprzez manipulowanie ustawieniem kamery.]]
+LANG["#MouseSensitivityOption_Help"] = [[Mnożnik ruchu kamery za pomocą kursora myszy.]]
+LANG["#RenderRadiusOption_Help"] = [[Rysunek odległości sceny. Pomoże to ustabilizować wydajność słabych adapterów wideo.]]
+LANG["#MouseSensitivityOption"] = [[Wrażliwość myszy]]

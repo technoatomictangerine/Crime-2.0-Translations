@@ -1,0 +1,7 @@
+LANG["#HeadbobOption"] = [[Камера wobbling]]
+LANG["#CameraOptions"] = [[Камера]]
+LANG["#RenderRadiusOption"] = [[Дистанція малювання]]
+LANG["#HeadbobOption_Help"] = [[Моделювання руху голови за допомогою маніпулювання положення камери.]]
+LANG["#MouseSensitivityOption_Help"] = [[Мультиплікатор руху камери з курсором миші.]]
+LANG["#RenderRadiusOption_Help"] = [[Малювання відстані сцени. Це допоможе стабілізувати продуктивність на слабких відео адаптерах.]]
+LANG["#MouseSensitivityOption"] = [[Чутливість миші]]

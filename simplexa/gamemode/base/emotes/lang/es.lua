@@ -1,0 +1,6 @@
+LANG["#ActBeacon"] = [[Invocación]]
+LANG["#ActBow"] = [[Bow]]
+LANG["#ActAgree"] = [[Aprobación]]
+LANG["#ActWave"] = [[Saludos]]
+LANG["#ActSalute"] = [[Salud militar]]
+LANG["#ActDisagree"] = [[Condena]]

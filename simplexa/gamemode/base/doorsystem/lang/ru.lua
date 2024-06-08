@@ -1,0 +1,20 @@
+LANG['#Door'] = 'Дверь'
+LANG['#Doors_Saved'] = 'Двери сохранены'
+LANG['#Doors_Loaded'] = 'Двери загружены'
+
+LANG['#ApartmentHouse'] = 'Многоквартирный дом'
+LANG['#PoliceDepot'] = 'Полицейский участок'
+LANG['#Hospital'] = 'Госпиталь'
+LANG['#PrivateHouse'] = 'Частный дом'
+LANG['#Apartment'] = 'Квартира'
+LANG['#Hostel'] = 'Общежитие'
+LANG['#MarketPlace'] = 'Торговое помещение'
+LANG['#Warehouse'] = 'Склад'
+LANG['#Room'] = 'Помещение'
+
+LANG['#CannotAfford'] = 'Вы не можете себе этого позволить'
+LANG['#BoughtDoors'] = 'Приобретено помещение. Кол-во дверей:'
+
+LANG['#DoorWasUpgraded1'] = 'Дверь была улучшена до 1 уровня'
+LANG['#DoorWasUpgraded2'] = 'Дверь была улучшена до 2 уровня'
+LANG['#DoorWasUpgraded3'] = 'Дверь была улучшена до 3 уровня'

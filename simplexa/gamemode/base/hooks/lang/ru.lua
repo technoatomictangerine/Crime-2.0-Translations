@@ -1,0 +1,7 @@
+LANG['#CameraOptions'] = 'Камера'
+LANG['#HeadbobOption'] = 'Покачивание камеры'
+LANG['#HeadbobOption_Help'] = 'Симуляция движения головы посредством манипуляции положения камеры.'
+LANG['#RenderRadiusOption'] = 'Дистанция отрисовки'
+LANG['#RenderRadiusOption_Help'] = 'Дистанция отрисовки сцены. Немного поможет стабилизировать производительность на слабых видео-адаптерах.'
+LANG['#MouseSensitivityOption'] = 'Чувствительность мыши'
+LANG['#MouseSensitivityOption_Help'] = 'Множитель движения камеры курсором мыши.'

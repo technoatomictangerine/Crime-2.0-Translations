@@ -1,0 +1,6 @@
+LANG["#ActBeacon"] = [[Summi]]
+LANG["#ActBow"] = [[Bow]]
+LANG["#ActAgree"] = [[Hyväksyminen]]
+LANG["#ActWave"] = [[Terveisiä]]
+LANG["#ActSalute"] = [[Sotilaallinen tervehdys]]
+LANG["#ActDisagree"] = [[Tuomio]]
