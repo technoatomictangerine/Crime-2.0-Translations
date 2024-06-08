@@ -20,6 +20,7 @@ LANG['#MenuBindings'] = 'Управление'
 LANG['#MenuGraphics'] = 'Графика'
 LANG['#MenuRetry'] = 'Перезапуск'
 LANG['#MenuDisconnect'] = 'Выход'
+LANG['#UILanguage'] = 'Язык'
 
 LANG['#GUITipPinching'] = 'Удерживайте ЛКМ для взаимодействия'
 
