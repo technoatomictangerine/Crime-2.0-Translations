@@ -12,9 +12,9 @@ LANG['#MarketPlace'] = 'Торговое помещение'
 LANG['#Warehouse'] = 'Склад'
 LANG['#Room'] = 'Помещение'
 
-LANG['#CannotAfford'] = 'Вы не можете себе этого позволить'
+LANG['#CannotAfford'] = 'Вы не можете себе это позволить'
 LANG['#BoughtDoors'] = 'Приобретено помещение. Кол-во дверей:'
 
-LANG['#DoorWasUpgraded1'] = 'Дверь была улучшена до 1 уровня'
-LANG['#DoorWasUpgraded2'] = 'Дверь была улучшена до 2 уровня'
-LANG['#DoorWasUpgraded3'] = 'Дверь была улучшена до 3 уровня'
+LANG['#DoorWasUpgraded1'] = 'Дверь была улучшена до уровня 1'
+LANG['#DoorWasUpgraded2'] = 'Дверь была улучшена до уровня 2'
+LANG['#DoorWasUpgraded3'] = 'Дверь была улучшена до уровня 3'
