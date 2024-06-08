@@ -48,7 +48,8 @@ LANG['#Credits_Also_Desc'] =
 
 LANG['#Credits_Translators'] = 'Помощь с переводом'
 LANG['#Credits_Translators_Desc'] =
-    'Это место зарезервировано для вас, мой друг;'
+    'Spac3e;' ..
+    '\nЭто место зарезервировано для вас, мой друг;'
 
 LANG['#Press'] = 'Нажмите '
 
