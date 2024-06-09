@@ -21,7 +21,7 @@ LANG["#3DSky_Help"] = [[Aktywuje renderowanie trójwymiarowych skyboxów]]
 LANG["#NetworkLoading"] = [[Pobieranie danych sieciowych]]
 LANG["#TimeOut_Desc"] = [[Połączenie z serwerem jest utracone. Połączenie zostanie automatycznie przywrócone za 30 sekund. Możesz spróbować ponownie połączyć się wybierając "Reboot" lub zostawić próby próżności.]]
 LANG["#Credits_Authors_Desc"] = [[Bipolar Bear - architektura oprogramowania, mechanika gry, VFX, programowanie UI, projekt UI / UX;
-Nellored - UI / UX i projekt graficzny
+Nellored - UI / UX i projekt graficzny;
 CoolGoga - wsparcie techniczne, rozbudowa infrastruktury serwerowej;]]
 LANG["#Scoreboard"] = [[Lista graczy]]
 LANG["#MultithreadOption_Help"] = [[Proces składania wniosków w alternatywnym strumieniu. Wielokulturowość!]]
@@ -64,10 +64,12 @@ LANG["#FlushLOD_Label"] = [[Restart]]
 LANG["#Press"] = [[Naciśnij]]
 LANG["#MMOptions"] = [[Ustawienia]]
 LANG["#Spawnlist"] = [[Lista wyjść]]
-LANG["#Credits_Others_Desc"] = [[GRIMM - projekt poziomu
-Epicki Prorok - Soundtrack (Spoczywaj w pokoju, bracie)
-MadeInCCCP - zawartość składu (https: / /) / www.youtube.com / @ MaDeInCCCPUSIC);
+LANG["#Credits_Others_Desc"] = [[GRIMM - projekt poziomu;
+The Epic Prophet - Soundtrack (Spoczywaj w pokoju, bracie);
+MadeInCCCP - zawartość składu (https://www.youtube.com/@MaDeInCCCPUSIC);
 prioraror - mała pomoc przy adaptacji starych dzieł;
 Deviatt - dużo mówił, niewiele robił;]]
 LANG["#UnloadOption"] = [[Zawartość recyklingu]]
 LANG["#ClearTempFilesOption_Help"] = [[Usuń pliki tymczasowe stworzone przez grę z pamięci fizycznej.]]
+LANG["#HWTextureManager"] = [[Załaduj tekstury do pamięci wideo]]
+LANG["#HWTextureManager_Help"] = [[Wymuś przechowywanie informacji o teksturach w pamięci wideo.]]

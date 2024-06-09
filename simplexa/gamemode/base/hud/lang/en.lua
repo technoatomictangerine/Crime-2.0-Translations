@@ -21,7 +21,7 @@ LANG["#3DSky_Help"] = [[Activates rendering of three-dimensional skyboxes]]
 LANG["#NetworkLoading"] = [[Downloading network data]]
 LANG["#TimeOut_Desc"] = [[The connection to the server is lost. The connection will be automatically restored in 30 seconds. You can retry to connect by selecting "Reboot" or leave vain attempts.]]
 LANG["#Credits_Authors_Desc"] = [[Bipolar Bear - software architecture, game mechanics, VFX, UI programming, UI/UX design;
-Nellored - UI/UX and graphic design
+Nellored - UI/UX and graphic design;
 CoolGoga - technical support, server infrastructure deployment;]]
 LANG["#Scoreboard"] = [[List of players]]
 LANG["#MultithreadOption_Help"] = [[Process rendering requests in an alternative stream. Multinuclearity!]]
@@ -64,10 +64,12 @@ LANG["#FlushLOD_Label"] = [[Reboot]]
 LANG["#Press"] = [[Press]]
 LANG["#MMOptions"] = [[Settings]]
 LANG["#Spawnlist"] = [[List of outputs]]
-LANG["#Credits_Others_Desc"] = [[GRIMM - Level design
-The Epic Prophet - Soundtrack (Rest in Peace, Bro)
-MadeInCCCP - compositional content (https:/) /www.youtube.com/@MaDeInCCCPMUSIC);
+LANG["#Credits_Others_Desc"] = [[GRIMM - Level design;
+The Epic Prophet - Soundtrack (Rest in Peace, Bro);
+MadeInCCCP - compositional content (https://www.youtube.com/@MaDeInCCCPMUSIC);
 prioraror - a little help with the adaptation of old works;
 Deviatt - talked a lot, did little;]]
 LANG["#UnloadOption"] = [[Recycling content]]
 LANG["#ClearTempFilesOption_Help"] = [[Delete temporary files created by the game from physical memory.]]
+LANG["#HWTextureManager"] = [[Load textures into video memory]]
+LANG["#HWTextureManager_Help"] = [[Force texture information to be stored in video memory.]]

@@ -20,8 +20,8 @@ LANG["#HUDWeaponNotations_Help"] = [[Visualizza le istruzioni per l'arma utilizz
 LANG["#3DSky_Help"] = [[Attiva il rendering di skybox tridimensionali]]
 LANG["#NetworkLoading"] = [[Scarica i dati della rete]]
 LANG["#TimeOut_Desc"] = [[La connessione al server è persa. La connessione verrà ripristinata automaticamente in 30 secondi. È possibile provare a connettersi selezionando "Riavviare" o lasciare tentativi vani.]]
-LANG["#Credits_Authors_Desc"] = [[Orso polare - architettura software, meccanica di gioco, VFX, programmazione UI, UI / UX design;
-Nellored - UI/UX e grafica
+LANG["#Credits_Authors_Desc"] = [[Bipolar Bear - architettura software, meccanica di gioco, VFX, programmazione UI, UI / UX design;
+Nellored - UI/UX e grafica;
 CoolGoga - supporto tecnico, distribuzione infrastruttura server;]]
 LANG["#Scoreboard"] = [[Elenco dei giocatori]]
 LANG["#MultithreadOption_Help"] = [[Le richieste di rendering dei processi in un flusso alternativo. Multinucleare!]]
@@ -64,10 +64,12 @@ LANG["#FlushLOD_Label"] = [[Riavvio]]
 LANG["#Press"] = [[Premere]]
 LANG["#MMOptions"] = [[Impostazioni impostazioni]]
 LANG["#Spawnlist"] = [[Elenco delle uscite]]
-LANG["#Credits_Others_Desc"] = [[GRIMM - Progettazione del livello
-Il Profeta Epico - colonna sonora (Rest in Peace, Bro)
-MadeinCCP - contenuto compositivo (https:/) /www.youtube.com/@MaDeInCCCPMUSIC);
+LANG["#Credits_Others_Desc"] = [[GRIMM - Progettazione del livello;
+The Epic Prophet - colonna sonora (Rest in Peace, Bro);
+MadeinCCP - contenuto compositivo (https://www.youtube.com/@MaDeInCCCPMUSIC);
 priora - un piccolo aiuto con l'adattamento di vecchi lavori;
 Deviatt - ha parlato molto, ha fatto poco;]]
 LANG["#UnloadOption"] = [[Contenuto di riciclaggio]]
 LANG["#ClearTempFilesOption_Help"] = [[Eliminare i file temporanei creati dal gioco dalla memoria fisica.]]
+LANG["#HWTextureManager"] = [[Carica le texture nella memoria video]]
+LANG["#HWTextureManager_Help"] = [[Forza l'archiviazione delle informazioni sulle texture nella memoria video.]]

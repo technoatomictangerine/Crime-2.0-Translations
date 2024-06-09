@@ -20,8 +20,8 @@ LANG["#HUDWeaponNotations_Help"] = [[Afișează instrucțiunile pentru arma folo
 LANG["#3DSky_Help"] = [[Activează redarea de skybox-uri tridimensionale]]
 LANG["#NetworkLoading"] = [[Descărcarea datelor rețelei]]
 LANG["#TimeOut_Desc"] = [[Conexiunea la server este pierdută. Conexiunea va fi refăcută automat în 30 de secunde. Puteți încerca să se conecteze prin selectarea "Reboot" sau lăsați încercări zadarnice.]]
-LANG["#Credits_Authors_Desc"] = [[Ursul bipolar - arhitectura software, mecanica jocurilor, VFX, programare UI, proiectare UI/UX;
-Nelored - UI/UX și design grafic
+LANG["#Credits_Authors_Desc"] = [[Bipolar Bear - arhitectura software, mecanica jocurilor, VFX, programare UI, proiectare UI/UX;
+Nelored - UI/UX și design grafic;
 CoolGoga - suport tehnic, implementarea infrastructurii serverelor;]]
 LANG["#Scoreboard"] = [[Lista jucătorilor]]
 LANG["#MultithreadOption_Help"] = [[Proces de redare a cererilor într-un flux alternativ. Multinuclearitate!]]
@@ -64,10 +64,12 @@ LANG["#FlushLOD_Label"] = [[Repornire]]
 LANG["#Press"] = [[Apasă]]
 LANG["#MMOptions"] = [[Configurări]]
 LANG["#Spawnlist"] = [[Lista realizărilor]]
-LANG["#Credits_Others_Desc"] = [[GRIMM - Proiectare nivel
-Epic Profet - Soundtrack (Restul în pace, frate)
-MadeInCCCP - conţinut compoziţional (https:/) /www.youtube.com/@MaDeInCCCPMUSIC);
-pretor - un pic de ajutor cu adaptarea operelor vechi;
+LANG["#Credits_Others_Desc"] = [[GRIMM - Proiectare nivel;
+The Epic Prophet - Soundtrack (Restul în pace, frate);
+MadeInCCCP - conţinut compoziţional (https://www.youtube.com/@MaDeInCCCPMUSIC);
+prioraror - un pic de ajutor cu adaptarea operelor vechi;
 Deviatt - a vorbit mult, a făcut puțin;]]
 LANG["#UnloadOption"] = [[Conținutul de reciclare]]
 LANG["#ClearTempFilesOption_Help"] = [[Șterge fișierele temporare create de joc din memoria fizică.]]
+LANG["#HWTextureManager"] = [[Încarcă texturi în memoria video]]
+LANG["#HWTextureManager_Help"] = [[Forțează stocarea informațiilor despre texturi în memoria video.]]

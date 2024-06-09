@@ -20,8 +20,8 @@ LANG["#HUDWeaponNotations_Help"] = [[Afficher les instructions pour l'arme utili
 LANG["#3DSky_Help"] = [[Active le rendu des skybox en trois dimensions]]
 LANG["#NetworkLoading"] = [[Téléchargement des données du réseau]]
 LANG["#TimeOut_Desc"] = [[La connexion au serveur est perdue. La connexion sera automatiquement restaurée dans 30 secondes. Vous pouvez réessayer de vous connecter en sélectionnant "Reboot" ou laisser vaines tentatives.]]
-LANG["#Credits_Authors_Desc"] = [[Ours bipolaire - architecture logicielle, mécanique de jeu, VFX, programmation UI, conception UI/UX;
-Nellored - UI/UX et design graphique
+LANG["#Credits_Authors_Desc"] = [[Bipolar Bear - architecture logicielle, mécanique de jeu, VFX, programmation UI, conception UI/UX;
+Nellored - UI/UX et design graphique;
 CoolGoga - support technique, déploiement de l'infrastructure du serveur;]]
 LANG["#Scoreboard"] = [[Liste des joueurs]]
 LANG["#MultithreadOption_Help"] = [[Traiter les demandes dans un flux alternatif. Multinucléaire !]]
@@ -64,10 +64,12 @@ LANG["#FlushLOD_Label"] = [[Redémarrez]]
 LANG["#Press"] = [[Appuyez]]
 LANG["#MMOptions"] = [[Paramètres]]
 LANG["#Spawnlist"] = [[Liste des produits]]
-LANG["#Credits_Others_Desc"] = [[GRIMM - Conception de niveau
-Le prophète épique - bande sonore (Reste en paix, Frère)
-Fait dans le PCCC - contenu de composition (https:/) /www.youtube.com/@MaDeInCCPMUSIC);
-prieur - un peu d'aide pour l'adaptation des œuvres anciennes;
+LANG["#Credits_Others_Desc"] = [[GRIMM - Conception de niveau;
+The Epic Prophet - bande sonore (Reste en paix, Frère);
+MadeInCCCP - contenu de composition (https://www.youtube.com/@MaDeInCCPMUSIC);
+prioraror - un peu d'aide pour l'adaptation des œuvres anciennes;
 Deviatt - beaucoup parlé, fait peu;]]
 LANG["#UnloadOption"] = [[Recyclage du contenu]]
 LANG["#ClearTempFilesOption_Help"] = [[Supprimer les fichiers temporaires créés par le jeu de la mémoire physique.]]
+LANG["#HWTextureManager"] = [[Charger les textures dans la mémoire vidéo]]
+LANG["#HWTextureManager_Help"] = [[Forcer le stockage des informations de texture dans la mémoire vidéo.]]

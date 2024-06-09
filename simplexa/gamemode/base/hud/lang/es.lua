@@ -20,8 +20,8 @@ LANG["#HUDWeaponNotations_Help"] = [[Mostrar instrucciones para el arma utilizad
 LANG["#3DSky_Help"] = [[Activa la renderización de buzones tridimensionales]]
 LANG["#NetworkLoading"] = [[Descargar datos de red]]
 LANG["#TimeOut_Desc"] = [[La conexión al servidor se pierde. La conexión se restaurará automáticamente en 30 segundos. Puedes reintentar conectar seleccionando "Reboot" o dejar intentos vanidosos.]]
-LANG["#Credits_Authors_Desc"] = [[Oso bipolar - arquitectura de software, mecánica de juego, VFX, programación UI, diseño UI/UX;
-Nellored - UI/UX y diseño gráfico
+LANG["#Credits_Authors_Desc"] = [[Bipolar Bear - arquitectura de software, mecánica de juego, VFX, programación UI, diseño UI/UX;
+Nellored - UI/UX y diseño gráfico;
 CoolGoga - soporte técnico, implementación de infraestructura servidor;]]
 LANG["#Scoreboard"] = [[Lista de jugadores]]
 LANG["#MultithreadOption_Help"] = [[Procesamiento de solicitudes en una secuencia alternativa. Multinuclearidad!]]
@@ -64,10 +64,12 @@ LANG["#FlushLOD_Label"] = [[Reboot]]
 LANG["#Press"] = [[Prensa]]
 LANG["#MMOptions"] = [[Ajustes]]
 LANG["#Spawnlist"] = [[Lista de productos]]
-LANG["#Credits_Others_Desc"] = [[GRIMM - Diseño de nivel
-El profeta épico - banda sonora (El mejor en la paz, Bro)
-MadeInCCCP - contenido de composición (https:/) /www.youtube.com/@MaDeInCCCPMUSIC);
+LANG["#Credits_Others_Desc"] = [[GRIMM - Diseño de nivel;
+The Epic Prophet - banda sonora (El mejor en la paz, Bro);
+MadeInCCCP - contenido de composición (https://www.youtube.com/@MaDeInCCCPMUSIC);
 prioraror - un poco de ayuda para la adaptación de obras antiguas;
 Deviatt - habló mucho, hizo poco;]]
 LANG["#UnloadOption"] = [[Contenido de reciclaje]]
 LANG["#ClearTempFilesOption_Help"] = [[Eliminar archivos temporales creados por el juego de memoria física.]]
+LANG["#HWTextureManager"] = [[Cargar texturas en memoria de vídeo]]
+LANG["#HWTextureManager_Help"] = [[Forzar que la información de texturas se almacene en la memoria de vídeo.]]

@@ -20,8 +20,8 @@ LANG["#HUDWeaponNotations_Help"] = [[Käytetyn aseen käyttöohjeet.]]
 LANG["#3DSky_Help"] = [[Aktivoi kolmen ulottuvuuden pilkkulaatikot]]
 LANG["#NetworkLoading"] = [[Verkkotietojen lataaminen]]
 LANG["#TimeOut_Desc"] = [[Yhteys palvelimeen on menetetty. Liitäntä palautetaan automaattisesti 30 sekunnissa. Voit ryhtyä yhteydenottoon valitsemalla uudelleenkäynnistyksen tai jättämällä turhan yrityksen.]]
-LANG["#Credits_Authors_Desc"] = [[Bipolaarinen karhu - ohjelmistoarkkitehtuuri, pelimekaniikka, VFX, UI-ohjelmointi, UI/UX-suunnittelu;
-Nellored - UI/UX ja graafinen suunnittelu
+LANG["#Credits_Authors_Desc"] = [[Bipolar Bear - ohjelmistoarkkitehtuuri, pelimekaniikka, VFX, UI-ohjelmointi, UI/UX-suunnittelu;
+Nellored - UI/UX ja graafinen suunnittelu;
 CoolGoga - tekninen tuki, palvelimen infrastruktuurin käyttöönotto;]]
 LANG["#Scoreboard"] = [[Luettelo pelaajista]]
 LANG["#MultithreadOption_Help"] = [[Pyyntöjen esittäminen vaihtoehtoisessa virrassa. moniydinvoimaa!]]
@@ -64,10 +64,12 @@ LANG["#FlushLOD_Label"] = [[Reboot]]
 LANG["#Press"] = [[Lehdistöä]]
 LANG["#MMOptions"] = [[Asetukset]]
 LANG["#Spawnlist"] = [[Luettelo tuotoista]]
-LANG["#Credits_Others_Desc"] = [[GRIMM - Tasosuunnittelu
-The Epic Prophet - Soundtrack (Rest in Peace, Bro) (käytetty)
-MadeInCCP koostumussisältö (https:/) /ww.youtube.com/@MaDeInCCCPMUSIC)
-apuna - pieni apu vanhojen teosten mukauttamisessa
+LANG["#Credits_Others_Desc"] = [[GRIMM - Tasosuunnittelu;
+The Epic Prophet - Soundtrack (Rest in Peace, Bro) (käytetty);
+MadeInCCP koostumussisältö (https://ww.youtube.com/@MaDeInCCCPMUSIC);
+prioraror - pieni apu vanhojen teosten mukauttamisessa;
 Deviatt - puhui paljon, ei juurikaan;]]
 LANG["#UnloadOption"] = [[Kierrätyksen sisältö]]
 LANG["#ClearTempFilesOption_Help"] = [[Poista pelin luomat väliaikaiset tiedostot fyysisestä muistista.]]
+LANG["#HWTextureManager"] = [[Lataa tekstuurit videomuistiin]]
+LANG["#HWTextureManager_Help"] = [[Pakota tekstuuritietojen tallentaminen videomuistiin.]]

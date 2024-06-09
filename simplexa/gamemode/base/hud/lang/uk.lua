@@ -21,7 +21,7 @@ LANG["#3DSky_Help"] = [[Активує рендеринг тривимірних
 LANG["#NetworkLoading"] = [[Завантаження даних мережі]]
 LANG["#TimeOut_Desc"] = [[З'єднання на сервер втрачено. З'єднання буде автоматично відновлено протягом 30 секунд. Ви можете перезавантажити для підключення, вибравши "Завантажити" або залишити спроби загартування.]]
 LANG["#Credits_Authors_Desc"] = [[Bipolar Bear - програмна архітектура, ігрова механіка, VFX, UI програмування, UI/UX дизайн;
-Nellored - UI / графічний дизайн
+Nellored - UI/графічний дизайн;
 CoolGoga - технічна підтримка, розгортання інфраструктури сервера;]]
 LANG["#Scoreboard"] = [[Список гравців]]
 LANG["#MultithreadOption_Help"] = [[Процес надання запитів в альтернативному режимі. Багатозначність!]]
@@ -64,10 +64,12 @@ LANG["#FlushLOD_Label"] = [[Перезавантаження]]
 LANG["#Press"] = [[Преса]]
 LANG["#MMOptions"] = [[Налаштування]]
 LANG["#Spawnlist"] = [[Список виходів]]
-LANG["#Credits_Others_Desc"] = [[GRIMM - дизайн рівня
-The Epic Prophet - Soundtrack (Захід в миру, Bro)
-Виброхвост - композиційний контент (https://www.youtube.com/@MaDeInCCCPMUSIC);
-авар - невелика допомога при адаптації старих робіт;
+LANG["#Credits_Others_Desc"] = [[GRIMM - дизайн рівня;
+The Epic Prophet - Soundtrack (Захід в миру, Bro);
+MadeInCCCP - композиційний контент (https://www.youtube.com/@MaDeInCCCPMUSIC);
+prioraror - невелика допомога при адаптації старих робіт;
 Deviatt - розмовляв багато, мало;]]
 LANG["#UnloadOption"] = [[Переробка контенту]]
 LANG["#ClearTempFilesOption_Help"] = [[Видалення тимчасових файлів, створених грою з фізичної пам'яті.]]
+LANG["#HWTextureManager"] = [[Завантажувати текстури у відеопам'ять]]
+LANG["#HWTextureManager_Help"] = [[Примусове збереження інформації про текстури у відеопам'яті.]]

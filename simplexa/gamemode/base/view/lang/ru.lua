@@ -1,2 +1,1 @@
-LANG['#CameraOptions'] = 'Камера'
-LANG['#ToggleThirdPerson'] = 'Включить/отключить вид от третьего лица'
+LANG['#ToggleThirdPerson'] = 'Переключить вид от третьего лица'

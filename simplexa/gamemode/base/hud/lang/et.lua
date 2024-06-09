@@ -20,8 +20,8 @@ LANG["#HUDWeaponNotations_Help"] = [[Näitab kasutatava relva juhiseid.]]
 LANG["#3DSky_Help"] = [[Aktiveerib kolmemõõtmeliste taevakastide renderdamise]]
 LANG["#NetworkLoading"] = [[Võrguandmete allalaadimine]]
 LANG["#TimeOut_Desc"] = [[Ühendus serveriga on kadunud. Ühendus taastatakse automaatselt 30 sekundi jooksul. Võite proovida uuesti ühendada, valides "Reboot" või jättes asjata katseid.]]
-LANG["#Credits_Authors_Desc"] = [[Bipolaarne karu - tarkvara arhitektuur, mängumehaanika, VFX, UI programmeerimine, UI / UX disain;
-Nellored - UI / UX ja graafiline disain
+LANG["#Credits_Authors_Desc"] = [[Bipolar Bear - tarkvara arhitektuur, mängumehaanika, VFX, UI programmeerimine, UI / UX disain;
+Nellored - UI / UX ja graafiline disain;
 CoolGoga - tehniline tugi, serveri infrastruktuuri juurutamine;]]
 LANG["#Scoreboard"] = [[Mängijate nimekiri]]
 LANG["#MultithreadOption_Help"] = [[Taotluste töötlemine alternatiivses voos. Mitmetuumalisus!]]
@@ -64,10 +64,12 @@ LANG["#FlushLOD_Label"] = [[Taaskäivitus]]
 LANG["#Press"] = [[Vajuta]]
 LANG["#MMOptions"] = [[Seadistused]]
 LANG["#Spawnlist"] = [[Väljundite nimekiri]]
-LANG["#Credits_Others_Desc"] = [[GRIMM - taseme disain
-Eepiline Prohvet - Soundtrack (Puhkus rahus)
-MadeInCCCP - koostise sisu (https:/) / www.youtube.com/@MaDeInCCCPMUSIC);
+LANG["#Credits_Others_Desc"] = [[GRIMM - taseme disain;
+The Epic Prophet - Soundtrack (Puhkus rahus);
+MadeInCCCP - koostise sisu (https://www.youtube.com/@MaDeInCCCPMUSIC);
 prioraror - väike abi vanade tööde kohandamisel;
 Deviatt - rääkis palju, tegi vähe;]]
 LANG["#UnloadOption"] = [[Ringlussevõtu sisu]]
 LANG["#ClearTempFilesOption_Help"] = [[Mängu loodud ajutiste failide kustutamine füüsilisest mälust.]]
+LANG["#HWTextureManager"] = [[Tekstuuride laadimine videomällu]]
+LANG["#HWTextureManager_Help"] = [[Tekstuuride teabe salvestamine videomällu.]]
