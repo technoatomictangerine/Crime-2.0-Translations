@@ -1,0 +1,16 @@
+LANG["#PMChat"] = [[ROAR!]];
+LANG["#ChatCommand"] = [[ROAR! ROAR!]];
+LANG["#ChatTeam"] = [[ROAR! ROAR! ROAR! ROAR! ROAR!]];
+LANG["#TeamChat"] = [[ROAR!]];
+LANG["#AdvertChat"] = [[ROAR! ROAR!]];
+LANG["#ChatOptions"] = [[ROAR!]];
+LANG["#ChatDunno"] = [[ROAR! ROAR! ROAR! ROAR! ROAR! ROAR!]];
+LANG["#LOOC"] = [[ROAR!]];
+LANG["#ChatToggle"] = [[ROAR! ROAR! ROAR! ROAR!]];
+LANG["#ChatHasNoTarget"] = [[ROAR! ROAR! ROAR! ROAR!]];
+LANG["#RPChat"] = [[ROAR! ROAR!]];
+LANG["#Server"] = [[ROAR!]];
+LANG["#ERROR"] = [[ROAR!]];
+LANG["#ChatHasNoTeam"] = [[ROAR! ROAR! ROAR! ROAR!]];
+LANG["#OOC"] = [[ROAR!]];
+LANG["#All"] = [[ROAR!]];

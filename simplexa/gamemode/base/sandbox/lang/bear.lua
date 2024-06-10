@@ -1,0 +1,17 @@
+LANG["#PropFencings"] = [[ROAR! ROAR!]];
+LANG["#GMODToolGun"] = [[ROAR! ROAR!]];
+LANG["#DecoratorLiftUp"] = [[ROAR! ROAR! ROAR!]];
+LANG["#DecoratorRotate"] = [[ROAR! ROAR! ROAR!]];
+LANG["#PropRemoved"] = [[ROAR! ROAR! ROAR!]];
+LANG["#DecoratorLiftDown"] = [[ROAR! ROAR! ROAR!]];
+LANG["#DecoratorDeploy"] = [[ROAR! ROAR! ROAR!]];
+LANG["#DecoratorCantPose"] = [[ROAR! ROAR! ROAR! ROAR! ROAR! ROAR!]];
+LANG["#Other"] = [[ROAR!]];
+LANG["#PropDoors"] = [[ROAR!]];
+LANG["#DecoratorClose"] = [[ROAR! ROAR! ROAR! ROAR!]];
+LANG["#PropDeployable"] = [[ROAR!]];
+LANG["#DecoratorNoSupport"] = [[ROAR! ROAR! ROAR! ROAR!]];
+LANG["#PropStairs"] = [[ROAR! ROAR!]];
+LANG["#PropWalls"] = [[ROAR!]];
+LANG["#PropCeilings"] = [[ROAR! ROAR!]];
+LANG["#PropFoundations"] = [[ROAR! ROAR!]];

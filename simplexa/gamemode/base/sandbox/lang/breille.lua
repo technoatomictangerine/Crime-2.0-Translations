@@ -1,0 +1,17 @@
+LANG["#PropFencings"] = [[⠏⠑⠗⠑⠛⠕⠗⠕⠙⠅⠊]];
+LANG["#GMODToolGun"] = [[⠊⠝⠎⠞⠗⠥⠍⠑⠝⠞]];
+LANG["#DecoratorLiftUp"] = [[⠏⠕⠙⠝⠫⠞⠾ ⠕⠃⠷⠑⠅⠞:]];
+LANG["#DecoratorRotate"] = [[⠺⠗⠁⠭⠁⠞⠾ ⠕⠃⠷⠑⠅⠞:]];
+LANG["#PropRemoved"] = [[⠕⠃⠷⠑⠅⠞ ⠥⠙⠁⠇⠡⠝]];
+LANG["#DecoratorLiftDown"] = [[⠕⠏⠥⠎⠞⠊⠞⠾ ⠕⠃⠷⠑⠅⠞:]];
+LANG["#DecoratorDeploy"] = [[⠗⠁⠵⠍⠑⠎⠞⠊⠞⠾ ⠕⠃⠷⠑⠅⠞:]];
+LANG["#DecoratorCantPose"] = [[⠟⠞⠕-⠞⠕ ⠍⠑⠱⠁⠑⠞ ⠗⠁⠵⠍⠑⠎⠞⠊⠞⠾ ⠕⠃⠷⠑⠅⠞]];
+LANG["#Other"] = [[⠏⠗⠕⠟⠑⠑]];
+LANG["#PropDoors"] = [[⠙⠺⠑⠗⠊]];
+LANG["#DecoratorClose"] = [[⠵⠁⠅⠕⠝⠟⠊⠞⠾ ⠎⠞⠗⠕⠊⠞⠑⠇⠾⠎⠞⠺⠕:]];
+LANG["#PropDeployable"] = [[⠏⠗⠕⠟⠑⠑]];
+LANG["#DecoratorNoSupport"] = [[⠕⠃⠷⠑⠅⠞ ⠝⠑ ⠊⠍⠑⠑⠞ ⠕⠏⠕⠗⠮]];
+LANG["#PropStairs"] = [[⠇⠑⠎⠞⠝⠊⠉⠮]];
+LANG["#PropWalls"] = [[⠎⠞⠑⠝⠮]];
+LANG["#PropCeilings"] = [[⠏⠕⠞⠕⠇⠅⠊]];
+LANG["#PropFoundations"] = [[⠋⠥⠝⠙⠁⠍⠑⠝⠞]];

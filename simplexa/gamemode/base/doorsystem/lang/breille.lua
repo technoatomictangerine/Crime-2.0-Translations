@@ -1,0 +1,17 @@
+LANG["#Room"] = [[⠏⠕⠍⠑⠭⠑⠝⠊⠑]];
+LANG["#MarketPlace"] = [[⠞⠕⠗⠛⠕⠺⠕⠑ ⠏⠕⠍⠑⠭⠑⠝⠊⠑]];
+LANG["#Hostel"] = [[⠕⠃⠭⠑⠚⠊⠞⠊⠑]];
+LANG["#BoughtDoors"] = [[⠏⠗⠊⠕⠃⠗⠑⠞⠑⠝⠕ ⠏⠕⠍⠑⠭⠑⠝⠊⠑. ⠅⠕⠇-⠺⠕ ⠙⠺⠑⠗⠑⠯:]];
+LANG["#Hospital"] = [[⠛⠕⠎⠏⠊⠞⠁⠇⠾]];
+LANG["#Warehouse"] = [[⠎⠅⠇⠁⠙]];
+LANG["#DoorWasUpgraded1"] = [[⠙⠺⠑⠗⠾ ⠃⠮⠇⠁ ⠥⠇⠥⠟⠱⠑⠝⠁ ⠙⠕ ⠥⠗⠕⠺⠝⠫ 1]];
+LANG["#Doors_Saved"] = [[⠙⠺⠑⠗⠊ ⠎⠕⠓⠗⠁⠝⠑⠝⠮]];
+LANG["#Doors_Loaded"] = [[⠙⠺⠑⠗⠊ ⠵⠁⠛⠗⠥⠚⠑⠝⠮]];
+LANG["#Door"] = [[⠙⠺⠑⠗⠾]];
+LANG["#ApartmentHouse"] = [[⠍⠝⠕⠛⠕⠅⠺⠁⠗⠞⠊⠗⠝⠮⠯ ⠙⠕⠍]];
+LANG["#DoorWasUpgraded2"] = [[⠙⠺⠑⠗⠾ ⠃⠮⠇⠁ ⠥⠇⠥⠟⠱⠑⠝⠁ ⠙⠕ ⠥⠗⠕⠺⠝⠫ 2]];
+LANG["#CannotAfford"] = [[⠺⠮ ⠝⠑ ⠍⠕⠚⠑⠞⠑ ⠎⠑⠃⠑ ⠪⠞⠕ ⠏⠕⠵⠺⠕⠇⠊⠞⠾]];
+LANG["#PrivateHouse"] = [[⠟⠁⠎⠞⠝⠮⠯ ⠙⠕⠍]];
+LANG["#PoliceDepot"] = [[⠏⠕⠇⠊⠉⠑⠯⠎⠅⠊⠯ ⠥⠟⠁⠎⠞⠕⠅]];
+LANG["#DoorWasUpgraded3"] = [[⠙⠺⠑⠗⠾ ⠃⠮⠇⠁ ⠥⠇⠥⠟⠱⠑⠝⠁ ⠙⠕ ⠥⠗⠕⠺⠝⠫ 3]];
+LANG["#Apartment"] = [[⠅⠺⠁⠗⠞⠊⠗⠁]];
