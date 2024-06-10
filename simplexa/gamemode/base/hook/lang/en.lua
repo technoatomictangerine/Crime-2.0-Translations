@@ -1,0 +1,7 @@
+LANG["#HeadbobOption"] = [[Camera wobbling]]
+LANG["#CameraOptions"] = [[Camera settings]]
+LANG["#RenderRadiusOption"] = [[Drawing distance]]
+LANG["#HeadbobOption_Help"] = [[Simulation of head movement by changing the camera position.]]
+LANG["#MouseSensitivityOption_Help"] = [[Multiplier for adjusting the speed of camera movement using the mouse.]]
+LANG["#RenderRadiusOption_Help"] = [[Scene rendering distance. Helps to stabilize performance on weak video cards.]]
+LANG["#MouseSensitivityOption"] = [[Mouse sensitivity]]
