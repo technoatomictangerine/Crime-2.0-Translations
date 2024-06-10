@@ -1,25 +1,25 @@
-LANG["#Cleanup_Start"] = [[Clearing the map is running]]
-LANG["#DontPopup"] = [[Never offer]]
+LANG["#Cleanup_Start"] = [[Clearing the map is in progress]] -- or Map cleanup started
+LANG["#DontPopup"] = [[Do not show again]]
 LANG["#Unnacounted_Net_Sent"] = [[Unregistered traffic sent]]
-LANG["#RecCfg_Desc"] = [[We recommend using the recommended configuration. This will provide you with the best performance while playing, but creates the possibility of crashes to the desktop if you lose your server connection.
-When flying to the desktop, send the file "garrysmod/data/cvars_crash_debug.txt" to the game mode developers.]]
+LANG["#RecCfg_Desc"] = [[We recommend applying the recommended configuration. This will ensure the best performance during gameplay but may cause crashes to the desktop when losing connection to the server.\nIf you crash to the desktop, send the file 
+"garrysmod/data/cvars_crash_debug.txt" to the game mode developers]]
 LANG["#Bitstream_OverflowAttemp"] = [[Attempting to refill the network buffer]]
 LANG["#AssetsUpdated"] = [[Content updated]]
-LANG["#LoginOften"] = [[Your IP address has already been connected in the last 30 seconds.
+LANG["#LoginOften"] = [[Your IP address has already connected in the last 30 seconds.
 Wait a minute.]]
 LANG["#RecMCore"] = [[Dual-core processing]]
 LANG["#Cleanup_Deleted"] = [[Objects removed]]
 LANG["#Bitstream_TooMuchMessages"] = [[Too many messages]]
-LANG["#Cleanup_Finish"] = [[Clearing map completed]]
+LANG["#Cleanup_Finish"] = [[Map cleanup finished]]
 LANG["#RecCfg"] = [[Recommended configuration]]
 LANG["#PhysicsLag"] = [[High physical activity. Raising the delay.]]
-LANG["#Bitstream_TooLongRuntime"] = [[Creating delay tics]]
-LANG["#AssetsUpdated_Desc"] = [[Game content has been updated. In order for the changes to take effect, you need to re-enter the server.]]
+LANG["#Bitstream_TooLongRuntime"] = [[Exceeded maximum runtime]]
+LANG["#AssetsUpdated_Desc"] = [[Game content has been updated. To apply the changes, you need to rejoin the server.]]
 LANG["#Ignore"] = [[Ignore]]
-LANG["#NoChrome"] = [[The client is out of date]]
-LANG["#LoginDDos"] = [[Too many connection requests. Try coming in again.
-If you do not succeed, inform the server operator.]]
-LANG["#RecMCore_Desc"] = [[We propose to include experimental deferred processing of game render requests. This can increase the overall performance of the game. However, it is an experimental function that can lead to unintended consequences.]]
-LANG["#NoChrome_Desc"] = [[Your client’s version does not support a Chromium web renderer, leaving some features unavailable. In the Beta section of the game’s properties in the Steam client, select “x86-64” or “chromium” options to fix the problem.]]
+LANG["#NoChrome"] = [[Client outdated]]
+LANG["#LoginDDos"] = [[Too many connection requests. Try to log in again.\n
+If you fail, report this to the server operator.]]
+LANG["#RecMCore_Desc"] = [[We recommend enabling experimental deferred game render processing. This may increase the overall game performance. However, this is an experimental feature that may cause unforeseen issues.]]
+LANG["#NoChrome_Desc"] = [[Your client version does not support Chromium web rendering, causing some features to be unavailable. In the "Betas" section of the game properties in the Steam client, select the "x86-64" or "chromium" options to fix the issue.]]
 LANG["#Cleanup_Restored"] = [[Objects restored]]
 LANG["#License"] = [[License agreement]]
