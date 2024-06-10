@@ -1,4 +1,4 @@
-LANG["#Room"] = [[Room]] -- The premises ?????? The room is more appropriate in meaning. It would be better to use the premises when referring to a specific location.
+LANG["#Room"] = [[Premises]] -- The premises ?????? The room is more appropriate in meaning. It would be better to use the premises when referring to a specific location. --This option is more in line with reality
 LANG["#MarketPlace"] = [[Commercial premises]]
 LANG["#Hostel"] = [[Hostel]]
 LANG["#BoughtDoors"] = [[Purchased property. Number of doors:]] --  property When we are not referring to a specific room, but rather to the entire property as a whole,
@@ -6,9 +6,9 @@ LANG["#Hospital"] = [[Hospital]]
 LANG["#Warehouse"] = [[Warehouse]]
 LANG["#DoorWasUpgraded1"] = [[The door has been upgraded to Level 1]]
 LANG["#Doors_Saved"] = [[Doors saved]]
-LANG["#Doors_Loaded"] = [[Doors loaded]] -- ?? fuck are
+LANG["#Doors_Loaded"] = [[Doors loaded]] -- ?? fuck are --It's just a debug message
 LANG["#Door"] = [[Door]] 
-LANG["#ApartmentHouse"] = [[Apartment Huose]] -- BUILDING???? Apartment House Intuitive for native speakers.
+LANG["#ApartmentHouse"] = [[Apartment]] -- BUILDING???? Apartment House Intuitive for native speakers. --Strings were translated with cheap machine translation model and simple script. I didn't see that line.
 LANG["#DoorWasUpgraded2"] = [[The door has been upgraded to Level 2]]
 LANG["#CannotAfford"] = [[You can't afford it]]
 LANG["#PrivateHouse"] = [[Private house]]
