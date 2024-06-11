@@ -14,3 +14,5 @@ LANG["#ERROR"] = [[Error]]
 LANG["#ChatHasNoTeam"] = [[You're not in a squad]]
 LANG["#OOC"] = [[OOC]]
 LANG["#All"] = [[All]]
+
+CUTS["Personal"] = [[PM]]
